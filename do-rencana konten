@@ -6,3 +6,10 @@ rencana konten
   - fundamental
   - php
   - laravel
+     ^vue
+     ^react
+  - fundamental
+  - php
+    ^laravel
+  - vlog
+  - python
