@@ -2,6 +2,9 @@ rencana konten
   - java script
     *es6
     *framework javascript
+     ^vue
   - fundamental
   - php
+    ^laravel
   - vlog
+  - python
